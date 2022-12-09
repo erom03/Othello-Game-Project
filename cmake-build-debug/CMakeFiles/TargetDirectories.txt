@@ -1,3 +1,0 @@
-D:/School/College/Fall 2022/COP 3223/Assignment 6 - Othello/cmake-build-debug/CMakeFiles/Assignment_6___Othello.dir
-D:/School/College/Fall 2022/COP 3223/Assignment 6 - Othello/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/School/College/Fall 2022/COP 3223/Assignment 6 - Othello/cmake-build-debug/CMakeFiles/rebuild_cache.dir
